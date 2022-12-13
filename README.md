@@ -8,5 +8,5 @@ It uses the ncurses library to display the simulation in the terminal and the pt
   sudo apt-get install libncurses5-dev
 - Execute the makefile with the following command : 
   make
-- Execute the ants file with the followinf command :
+- Execute the ants file with the following command :
   ./ants
