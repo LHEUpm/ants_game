@@ -5,8 +5,15 @@ It uses the ncurses library to display the simulation in the terminal and the pt
 
 # Installation
 - Install the ncurses library with the following command :
+  ```
   sudo apt-get install libncurses5-dev
+  ```
 - Execute the makefile with the following command : 
+  ```
   make
+  ```
 - Execute the ants file with the following command :
+  ```
   ./ants
+  ```
+  
